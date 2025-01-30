@@ -1,4 +1,4 @@
-package Day_4Streams;
+package Day_5Streams;
 
 import java.util.Arrays;
 import java.util.Comparator;
